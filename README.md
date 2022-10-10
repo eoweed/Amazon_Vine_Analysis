@@ -5,7 +5,7 @@ Analyze reviews written by paid members of the Amazon Vine program to determine 
 ###### The purpose of this project is to analyze reviews on Amazon products and determine if there is bias between reviews from Amazon Vine program members (who are paid for reviews) and non-members (who are not paid for reviews). The goal is to determine the percent of reviews that have 5-star ratings for both Vine members and non-members.
 
 
-###### Link to Amazon Reviews dataset: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz
+###### Link to Amazon Reviews dataset: ['link'](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz)
 
 
 ## Results:
