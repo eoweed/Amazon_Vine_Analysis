@@ -7,6 +7,25 @@ Analyze reviews written by paid members of the Amazon Vine program to determine 
 
 ###### Amazon Reviews dataset: [Link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Lawn_and_Garden_v1_00.tsv.gz)
 
+## Methods:
+###### 1)	Created an AWS database instance to connect to Postgres.
+<img src=”AWSdatabase.png”/>
+
+###### 2)	Created a database in the AWS server with four tables.
+###### a.	review_id_table
+###### b.	products_table
+###### c.	customers_table
+###### d.	vine_table
+<img src=”CreateTables”/>
+
+###### 3)	Extracted the Amazon Reviews dataset.
+###### 4)	Transformed the dataset into dataframes that match the four tables in the database.
+###### 5)	Wrote the tables into the database.
+<img src=”WriteTables_to_Database”/>
+
+###### 6)	Analyzed reviews from Vine members and non-Vine members.
+<img src=””Vine_vs_NonVine_Results/>
+
 
 ## Results:
 * Vine Members:
