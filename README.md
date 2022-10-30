@@ -16,10 +16,12 @@ Amazon Reviews dataset: [Link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/a
     b.	products_table
     c.	customers_table
     d.	vine_table
-<img src="https://github.com/eoweed/Amazon_Vine_Analysis/blob/main/Images/CreateTables.png"/>
 
 3)	Extracted the Amazon Reviews dataset.
+
 4)	Transformed the dataset into dataframes that match the four tables in the database.
+<img src="https://github.com/eoweed/Amazon_Vine_Analysis/blob/main/Images/CreateTables.png"/>
+
 5)	Wrote the tables into the database.
 <img src="https://github.com/eoweed/Amazon_Vine_Analysis/blob/main/Images/WriteTables_to_Database.png"/>
 
