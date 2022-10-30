@@ -12,9 +12,13 @@ Amazon Reviews dataset: [Link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/a
 <img src="https://github.com/eoweed/Amazon_Vine_Analysis/blob/main/Images/AWSdatabase.png"/>
 
 2)	Created a database in the AWS server with four tables.
+
     a.	review_id_table
+
     b.	products_table
+
     c.	customers_table
+    
     d.	vine_table
 
 3)	Extracted the Amazon Reviews dataset.
